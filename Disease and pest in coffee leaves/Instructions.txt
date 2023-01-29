@@ -1,0 +1,13 @@
+1.)download the anaconda first
+2.)Go to the Anaconda Navigator 
+install first the requirements:
+matplotlib
+numpy
+notebook
+tensorflow-addons
+tensorflow-model-optimization
+tensorflow==2.5
+
+you can watch this youtube video to make it easier:
+https://www.youtube.com/watch?v=L4Y7A44lzpM
+
